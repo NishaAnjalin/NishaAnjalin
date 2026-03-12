@@ -3,6 +3,12 @@
 # I am Nishanthi
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NishaAnjalin&theme=github" />
+
+
+## Projects
+- https://bbdsppvt.com/
+- https://mynahfarms.lk/
+
 <!--
 **NishaAnjalin/NishaAnjalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -17,6 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Projects
-- https://bbdsppvt.com/
-- https://mynahfarms.lk/
