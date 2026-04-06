@@ -6,10 +6,11 @@
 
 
 ## Projects
-- https://bbdsppvt.com/
-- https://mynahfarms.lk/
-- https://www.wedtamil.com/
-- https://www.atibatti.edu.lk/
+ATI Batticaloa Website: https://atibatti.edu.lk/
+BBDSP Consultant Landing Page: https://bbdsppvt.com/
+Mynah Farms: https://mynahfarms.lk/
+WedTamil matrimony: https://wedtamil.com/
+Bussiness Portfolio for doctor: https://drahilan.com/
   
 
 <!--
