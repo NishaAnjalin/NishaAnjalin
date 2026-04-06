@@ -9,7 +9,6 @@
 - https://bbdsppvt.com/
 - https://mynahfarms.lk/
 - https://www.wedtamil.com/
-- https://www.mynahfarms.lk/
 - https://www.atibatti.edu.lk/
   
 
