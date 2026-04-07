@@ -5,12 +5,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NishaAnjalin&theme=github" />
 
 
-## Projects
+## My Projects
 - ATI Batticaloa Website: https://atibatti.edu.lk/
 - BBDSP Consultant Landing Page: https://bbdsppvt.com/
 - Mynah Farms: https://mynahfarms.lk/
-- WedTamil matrimony: https://wedtamil.com/
-- Bussiness Portfolio for doctor: https://drahilan.com/
+- Doctor LandingPage: https://drahilan.com/
   
 
 <!--
