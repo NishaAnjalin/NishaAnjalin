@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,javascript,typescript,python,swift,cs,react,nextjs,astro,dotnet,vite,figma,wordpress,flask,nodejs,express,pytorch,azure,aws,vercel,firebase,mysql,mongodb,docker,,windows,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,javascript,typescript,python,swift,cs,react,nextjs,astro,dotnet,vite,figma,wordpress,flask,nodejs,express,pytorch,azure,aws,vercel,firebase,mysql,mongodb,docker,windows,linux" />
   </a>
 </p>
 
