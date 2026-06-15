@@ -16,6 +16,8 @@
 - BBDSP Consultant Landing Page: https://bbdsppvt.com/
 - Mynah Farms: https://mynahfarms.lk/
 - Doctor LandingPage: https://drahilan.com/
+- Canada Condo Website : https://canada-condo.vercel.app/
+- Lecture Academic Portfolio: https://lecturer-beta.vercel.app/
   
 
 <!--
