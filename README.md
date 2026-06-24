@@ -16,7 +16,7 @@
 - BBDSP Consultant Landing Page: https://bbdsppvt.com/
 - Mynah Farms: https://mynahfarms.lk/
 - Doctor LandingPage: https://drahilan.com/
--  Batti-library : 
+- Batti-library : https://battilibrary.lk/
 - Lecture Academic Portfolio: https://www.jeyapalan.com/
 - Swami Vivekananda Welfare Society Batticaloa: https://www.svwsbatti.org/
 - Doctor Portfolio : https://www.drarul.lk/
