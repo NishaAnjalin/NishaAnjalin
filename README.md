@@ -18,7 +18,7 @@
 - Doctor LandingPage: https://drahilan.com/
 - Canada Condo Website (I) : https://canada-condo.vercel.app/
 - Lecture Academic Portfolio: https://lecturer-beta.vercel.app/
-- Swami Vivekananda Welfare Society Batticaloa: https://vivek-pearl.vercel.app/
+- Swami Vivekananda Welfare Society Batticaloa: https://www.svwsbatti.org/
 - Doctor Portfolio : https://dr-arul.vercel.app/
 - civil_society_batticaloa : https://www.bdcs.lk/
 - Illaku : https://illakku.vercel.app/
