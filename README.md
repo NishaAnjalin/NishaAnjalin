@@ -25,7 +25,7 @@
 - Ceylon_spice : https://ceylon-spice.vercel.app/
 
 ## Ongoing Project
--Canada Condo Website (II) : https://canada-condo.vercel.app/
+- Canada Condo Website (II) : https://canada-condo.vercel.app/
 - Future Minds : https://future-minds-flax.vercel.app/
 - Cake shop: https://navanitha.vercel.app/
 
