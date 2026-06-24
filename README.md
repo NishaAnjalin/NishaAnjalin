@@ -18,11 +18,13 @@
 - Doctor LandingPage: https://drahilan.com/
 - Canada Condo Website : https://canada-condo.vercel.app/
 - Lecture Academic Portfolio: https://lecturer-beta.vercel.app/
-- Lions club : https://lions-club.vercel.app/
 - Swami Vivekananda Welfare Society Batticaloa: https://vivek-pearl.vercel.app/
-- Empowering Families, Enriching Lives: https://refortt.vercel.app/
 - Doctor Portfolio : https://dr-arul.vercel.app/
-  
+- civil_society_batticaloa : https://www.bdcs.lk/
+- Future Minds : https://future-minds-flax.vercel.app/
+- Cake shop: https://navanitha.vercel.app/
+- Illaku : https://illakku.vercel.app/
+- Ceylon_spice : https://ceylon-spice.vercel.app/
 
 <!--
 
