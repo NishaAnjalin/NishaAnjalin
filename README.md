@@ -17,7 +17,7 @@
 - Mynah Farms: https://mynahfarms.lk/
 - Doctor LandingPage: https://drahilan.com/
 - Canada Condo Website (I) : https://canada-condo.vercel.app/
-- Lecture Academic Portfolio: https://lecturer-beta.vercel.app/
+- Lecture Academic Portfolio: https://www.jeyapalan.com/
 - Swami Vivekananda Welfare Society Batticaloa: https://www.svwsbatti.org/
 - Doctor Portfolio : https://www.drarul.lk/
 - civil_society_batticaloa : https://www.bdcs.lk/
