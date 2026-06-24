@@ -19,7 +19,7 @@
 - Canada Condo Website (I) : https://canada-condo.vercel.app/
 - Lecture Academic Portfolio: https://lecturer-beta.vercel.app/
 - Swami Vivekananda Welfare Society Batticaloa: https://www.svwsbatti.org/
-- Doctor Portfolio : https://dr-arul.vercel.app/
+- Doctor Portfolio : https://www.drarul.lk/
 - civil_society_batticaloa : https://www.bdcs.lk/
 - Illaku : https://illakku.vercel.app/
 - Ceylon_spice : https://ceylon-spice.vercel.app/
